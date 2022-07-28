@@ -1,6 +1,5 @@
 # Curso Completo de PHP 7
 Iniciado em 27/07/2022
-Concluído em 
 
 # Link
 https://www.udemy.com/course/curso-php-7-online/
